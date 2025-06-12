@@ -1,61 +1,63 @@
-<h2 align="center">Hey 👋, I'm Moinuddin Hassan</h2>
-<p align="center">🚀 Aspiring Data Analyst | Python • SQL • Power BI • Excel 📊</p>
+<h1 align="center">Hi 👋, I'm Moinuddin Hassan</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | Turning Data into Decisions</h3>
 
 <p align="center">
   <a href="mailto:hameedmunna788@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/moinuddin-hassan-2866b5219/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=moinuddin-hassan&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 💼 About Me
+### 🧠 About Me
 
-- 🎓 B.E. Graduate From BMS College Of Engineering | Information Science  
-- 📌 Qualified GATE 2024 (CS)  
-- 🌱 Currently working on SQL projects and Power BI dashboards  
-- 🔍 Love turning raw data into **actionable insights**  
-
----
-
-### 🧰 My Toolkit
-
-| Skills         | Tools/Tech                                |
-|----------------|--------------------------------------------|
-| Programming    | `Python`, `SQL`                           |
-| BI & Analytics | `Power BI`, `MS Excel`, `DAX`             |
-| Libraries      | `Pandas`, `NumPy`, `Matplotlib`           |
-| Database       | `MySQL`, `PostgreSQL`                     |
-| Concepts       | EDA, KPI Tracking, Forecasting, A/B Testing |
+- 🎓 B.E. in Information Science | **BMS College of Engineering**
+- ✅ **GATE 2024 Qualified** – CS Stream  
+- 💼 Data Analyst Enthusiast | Focused on real-world business problems
+- 🛠️ Currently building SQL pipelines & Power BI dashboards
+- 🧩 Passionate about: Exploratory Data Analysis, Dashboarding, Forecasting, KPI Tracking
 
 ---
 
-### 📈 Top Projects
+### 🧰 Tech Stack
 
-🚨 **[Retail-chain-sales-data-analysis](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis.git)**  
-`Power BI` • SQL • Python & MS Excel
+| Category       | Tools/Skills                                                                 |
+|---------------|-------------------------------------------------------------------------------|
+| Languages      | ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql&logoColor=white) |
+| BI Tools       | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) |
+| Libraries      | `Pandas` • `NumPy` • `Matplotlib` |
+| Databases      | `MySQL` • `PostgreSQL` |
+| Concepts       | EDA • A/B Testing • Forecasting • KPI Dashboards • Data Cleaning |
 
-🍔 **[Hotel-Data-Analysis-Power-BI-Dashboard](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard.git)**  
-`Excel` • Power BI Dashboard
+---
 
-📦 **[Medical-Data-Analysis](https://github.com/Moinhassan07/Medical-Data-Analysis.git)**  
-`SQL` • Power BI • Python & MS Excel
+### 🚀 Projects
+
+| 🔍 Project | 🔧 Tech Stack | 🔗 Link |
+|-----------|---------------|--------|
+| **Retail Chain Sales Analysis** | SQL • Python • Power BI • Excel | [GitHub Repo](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis.git) |
+| **Hotel Dashboard Analysis** | Excel • Power BI | [GitHub Repo](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard.git) |
+| **Medical Data Analysis** | SQL • Power BI • Python | [GitHub Repo](https://github.com/Moinhassan07/Medical-Data-Analysis.git) |
 
 ---
 
 ### 📜 Certifications
 
-- 🧠 IBM – SQL and Relational Databases 101  
-- 📊 Power BI – Data Visualization (coming soon)
+- 🧠 **IBM** – SQL & Relational Databases 101  
 
 ---
 
-### 📬 Let's Connect!
+### 📫 Contact Me
 
-```diff
-+ 📫 hameedmunna788@gmail.com
-+ 🔗 linkedin.com/in/moinuddin-hassan-2866b5219
+<p align="center">
+  <a href="mailto:hameedmunna788@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/moinuddin-hassan-2866b5219/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+---
+
+> _"Data is the new oil, but insight is the combustion engine."_ 🔍🔥
+

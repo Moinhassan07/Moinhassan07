@@ -15,7 +15,7 @@
 
 ### 💼 About Me
 
-- 🎓 Final Year B.E. Student | Information Science  
+- 🎓 B.E. Graduate From BMS College Of Engineering | Information Science  
 - 📌 Qualified GATE 2024 (CS)  
 - 🌱 Currently working on SQL projects and Power BI dashboards  
 - 🔍 Love turning raw data into **actionable insights**  

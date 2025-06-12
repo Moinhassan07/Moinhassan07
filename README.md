@@ -36,14 +36,14 @@
 
 ### 📈 Top Projects
 
-🚨 **[ITC Hotels Revenue Dashboard](https://github.com/yourusername/ITC-Hotels-Dashboard)**  
-`Power BI` • DAX • Occupancy & ARR Analysis
+🚨 **[Retail-chain-sales-data-analysis](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis.git)**  
+`Power BI` • SQL • Python & MS Excel
 
-🍔 **[McDonald’s Sales Insights](https://github.com/yourusername/McDonalds-Sales-Excel)**  
-`Excel` • Sales Trend • Peak Hours Dashboard
+🍔 **[Hotel-Data-Analysis-Power-BI-Dashboard](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard.git)**  
+`Excel` • Power BI Dashboard
 
-📦 **[Swiggy Order Patterns](https://github.com/yourusername/Swiggy-Order-SQL)**  
-`SQL` • Order Frequency • CTEs & Joins
+📦 **[Medical-Data-Analysis](https://github.com/Moinhassan07/Medical-Data-Analysis.git)**  
+`SQL` • Power BI • Python & MS Excel
 
 ---
 

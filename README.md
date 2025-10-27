@@ -41,7 +41,7 @@
 
 | 🔍 Project | 🧰 Tech Stack | 🔗 Link |
 |------------|----------------|--------|
-| **Cold Mail Generator: AI-Powered Outreach** | Python • Streamlit • LangChain • Groq API • Vector DB (FAISS) | [GitHub Repo](https://github.com/Moinhassan07/Cold-Mail-Generator.git) |
+| **Cold Mail Generator: AI-Powered Outreach** | Python • Streamlit • LangChain • Groq API • Vector DB (FAISS) | [GitHub Repo](https://github.com/Moinhassan07/Cold-Email-Generator.git) |
 | **Retail Chain Sales Analysis** | SQL • Python • Power BI • Excel | [GitHub Repo](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis.git) |
 | **Hotel Dashboard Analysis** | Excel • Power BI | [GitHub Repo](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard.git) |
 | **Medical Data Analysis** | SQL • Power BI • Python | [GitHub Repo](https://github.com/Moinhassan07/Medical-Data-Analysis.git) |

@@ -28,12 +28,14 @@
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=yellow) |
 | **Cloud / Data Tools** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) • S3 • Lambda • Glue • Redshift |
+| **AI / LLM Tools** | ![LangChain](https://img.shields.io/badge/-LangChain-black?logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-FF6F00?logo=groq&logoColor=white) |
+| **Web / App Dev** | ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20APIs-blue) |
 | **BI & Visualization** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) |
 | **Libraries** | `Pandas` • `NumPy` • `Matplotlib` |
 | **Databases** | `MySQL` • `PostgreSQL` • `SQLite` |
-| **Concepts** | ETL Pipelines • Data Warehousing • EDA • API Integration • KPI Dashboards • Data Cleaning |
+| **Concepts** | ETL Pipelines • Data Warehousing • EDA • API Integration • KPI Dashboards • Data Cleaning • LLM Integration • Mobile App Scalability |
 
 ---
 
@@ -42,6 +44,7 @@
 | 🔍 Project | 🧰 Tech Stack | 🔗 Link |
 |------------|----------------|--------|
 | **Cold Mail Generator: AI-Powered Outreach** | Python • Streamlit • LangChain • Groq API • Vector DB (FAISS) | [GitHub Repo](https://github.com/Moinhassan07/Cold-Email-Generator.git) |
+| **MultiService App: On-Demand 3-in-1 Platform** | React Native • Node.js • PostgreSQL • AWS S3 • Razorpay API | [GitHub Repo](https://github.com/Moinhassan07/MultiService-App) |
 | **Retail Chain Sales Analysis** | SQL • Python • Power BI • Excel | [GitHub Repo](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis.git) |
 | **Hotel Dashboard Analysis** | Excel • Power BI | [GitHub Repo](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard.git) |
 | **Medical Data Analysis** | SQL • Power BI • Python | [GitHub Repo](https://github.com/Moinhassan07/Medical-Data-Analysis.git) |

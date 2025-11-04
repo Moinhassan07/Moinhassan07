@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moinuddin Hassan</h1>
-<h3 align="center">🚀 Data Engineer | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">🚀 Data Engineer & AI Enthusiast | Turning Raw Data into Intelligent Solutions</h3>
 
 <p align="center">
   <a href="mailto:hameedmunna788@gmail.com">
@@ -17,10 +17,10 @@
 
 - 🎓 B.E. in Information Science | **BMS College of Engineering**
 - ✅ **GATE 2024 Qualified** – CS Stream  
-- 💼 **Aspiring Data Engineer / Data Analyst** focused on building **data-driven systems**
+- 💼 **Aspiring Data Engineer / AI Developer** focused on building **data-driven and intelligent systems**
 - ☁️ Exploring **AWS (S3, Glue, Lambda, Redshift)** for scalable data pipelines  
 - 🛠️ Skilled in **data cleaning, transformation, visualization, and automation**
-- 🧩 Passionate about: ETL Pipelines • Data Modeling • Analytics Engineering • Cloud Data Solutions
+- 🧩 Passionate about: ETL Pipelines • Data Modeling • LLM Applications • Analytics Engineering • Cloud Data Solutions
 
 ---
 
@@ -77,4 +77,4 @@
 
 ---
 
-> _"Data is the foundation of decisions. Engineers turn that data into power."_ ⚙️📊
+> _"Data is the foundation of decisions. Engineers turn that data into intelligent power."_ ⚙️🤖📊

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moinuddin Hassan</h1>
-<h3 align="center">🚀 Aspiring Data Engineer | Turning Raw Data into Actionable Insights</h3>
+<h3 align="center">🚀 Data Engineer | Turning Raw Data into Actionable Insights</h3>
 
 <p align="center">
   <a href="mailto:hameedmunna788@gmail.com">

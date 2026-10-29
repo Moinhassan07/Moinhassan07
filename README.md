@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Moinuddin%20Hassan&fontSize=48&fontColor=ffffff&color=0:0f172a,50:1d4ed8,100:06b6d4&stroke=38bdf8&strokeWidth=1&desc=DATA%20%7C%20BUSINESS%20INSIGHTS%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=68" width="100%" alt="Moinuddin Hassan — Data, Business Insights and Artificial Intelligence"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Moinuddin%20Hassan&fontSize=48&fontColor=ffffff&color=0:0f172a,50:1d4ed8,100:06b6d4&stroke=38bdf8&strokeWidth=1&desc=DATA%20ENGINEERING%20%7C%20BUSINESS%20ANALYTICS%20%7C%20AI&descSize=13&descAlignY=68" width="100%" alt="Moinuddin Hassan — Data Engineering, Business Analytics and AI"/>
 
-### Data Engineer · Business Analyst · AI Engineer
+### Data Analytics Engineer · Business Analyst · AI Engineer
 
 *Turning data into decisions, systems into solutions, and ideas into working applications.*
 
@@ -17,26 +17,49 @@
 
 ## `01` — About Me
 
-I'm an Information Science engineering graduate with experience in data-focused roles and an interest in building solutions at the intersection of **data engineering, business analytics, and artificial intelligence**.
+I'm a data professional with experience in data analytics and data engineering, passionate about building reliable data workflows, uncovering business insights, and developing AI-powered applications.
 
-I enjoy understanding a problem, working with data, and turning the results into something useful — whether that's a business dashboard, a data workflow, or an AI-powered application.
+I enjoy connecting technical problem-solving with business needs — transforming raw data into useful information that supports better decisions.
 
 - 🎓 **Education:** B.E. in Information Science — BMS College of Engineering
 - 🏆 **Achievement:** GATE 2024 Qualified — Computer Science
-- 💼 **Experience:** Get My Parking · Drive Terra
-- 📊 **Analytics:** SQL, Python, Excel, Power BI, and KPI analysis
-- ⚙️ **Data Engineering:** ETL concepts, databases, AWS data services, and data transformation
-- 🤖 **AI Engineering:** Python, LangChain, Groq API, and LLM-powered applications
-- 📍 **Location:** Bengaluru, India
+- 💼 **Current Role:** Data Analytics Engineer at Get My Parking
+- 🌍 **Previous Role:** Data Engineer Intern at Drive Terra, a Dubai-based startup
+- 📊 **Analytics:** SQL, Python, Excel, Power BI, and KPI reporting
+- ⚙️ **Data Engineering:** ETL workflows, data transformation, databases, and AWS data services
+- 🤖 **AI Engineering:** LangChain, Groq API, and LLM-powered applications
+- 📍 **Location:** Bengaluru, Karnataka, India
 
-> My approach: understand the problem first, use the right technology, and make the result useful.
+> My approach: understand the problem, work with the data, and build a solution that creates value.
 
 ---
 
-## `02` — Technical Arsenal
+## `02` — Professional Experience
+
+### Data Analytics Engineer | Get My Parking
+
+<sub>June 2026 – Present · Bengaluru, India</sub>
+
+- Contributing to data analytics and reporting workflows that support business operations.
+- Working with data validation, reporting, and data quality processes.
+- Applying analytical thinking to help maintain reliable and useful business data.
+- Supporting data-driven workflows using spreadsheets, reporting tools, and analytics processes.
+
+### Data Engineer Intern | Drive Terra
+
+<sub>October 2025 – March 2026 · Dubai-based Startup</sub>
+
+- Gained hands-on experience in data engineering workflows and data processing.
+- Worked with databases, data transformation, and reporting-related tasks.
+- Contributed to data-focused projects in a startup environment.
+- Developed practical experience in preparing and organizing data for analysis and reporting.
+
+---
+
+## `03` — Technical Arsenal
 
 <p>
-  <b>PROGRAMMING & DATA</b><br/><br/>
+  <b>PROGRAMMING & DATA ANALYSIS</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -48,15 +71,15 @@ I enjoy understanding a problem, working with data, and turning the results into
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
   <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Glue"/>
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift"/>
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Amazon Redshift"/>
 </p>
 
 <p>
   <b>BUSINESS INTELLIGENCE & ANALYTICS</b><br/><br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=222222" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Business_Analysis-334155?style=flat-square" alt="Business Analysis"/>
-  <img src="https://img.shields.io/badge/KPI_Reporting-475569?style=flat-square" alt="KPI Reporting"/>
+  <img src="https://img.shields.io/badge/KPI_Analysis-334155?style=flat-square" alt="KPI Analysis"/>
+  <img src="https://img.shields.io/badge/Business_Reporting-475569?style=flat-square" alt="Business Reporting"/>
 </p>
 
 <p>
@@ -70,21 +93,19 @@ I enjoy understanding a problem, working with data, and turning the results into
 
 ---
 
-## `03` — Selected Projects
+## `04` — Selected Projects
 
-*Practical projects exploring analytics, business intelligence, and AI-powered applications.*
+*Projects showcasing my interest in AI applications, business intelligence, and data-driven problem-solving.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### 🤖 Cold Email Generator
 
-**Cold Email Generator**
+An AI-powered application that generates personalized cold emails using large language models.
 
-An LLM-powered application that generates personalized cold emails from supplied information.
-
-**Core technologies**
+**Technologies**
 
 `Python` `LangChain` `Groq` `Streamlit`
 
@@ -92,58 +113,52 @@ An LLM-powered application that generates personalized cold emails from supplied
 - Interactive application interface
 - Practical LLM application development
 
-[**Explore source code →**](https://github.com/Moinhassan07/Cold-Email-Generator)
+[**Explore Repository →**](https://github.com/Moinhassan07/Cold-Email-Generator)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Business Analytics
+### 📊 Retail Chain Sales Analysis
 
-**Retail Chain Sales Analysis**
+A data analysis project focused on exploring sales performance and business trends.
 
-A data analysis project exploring sales performance and business trends.
-
-**Core technologies**
+**Technologies**
 
 `SQL` `Python` `Power BI` `Excel`
 
 - Sales and product performance analysis
-- Business trends and reporting
+- Business trend exploration
 - Data-driven decision support
 
-[**Explore source code →**](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis)
+[**Explore Repository →**](https://github.com/Moinhassan07/Retail-chain-sales-data-analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Business Intelligence
+### 📈 Hotel Dashboard Analysis
 
-**Hotel Dashboard Analysis**
+A business intelligence project exploring hotel data through dashboards and visual reporting.
 
-A dashboard project focused on exploring hotel data and communicating business insights.
-
-**Core technologies**
+**Technologies**
 
 `Power BI` `Excel`
 
-- Visual reporting of relevant metrics
+- Visual reporting of key metrics
 - Business trend exploration
 - Dashboard-based analysis
 
-[**Explore source code →**](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard)
+[**Explore Repository →**](https://github.com/Moinhassan07/Hotel-Data-Analysis-Power-BI-Dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Data Analytics
+### 🩺 Medical Data Analysis
 
-**Medical Data Analysis**
+A data analytics project exploring healthcare datasets and communicating findings through visualizations.
 
-A project exploring healthcare datasets through data analysis and visualization.
-
-**Core technologies**
+**Technologies**
 
 `SQL` `Python` `Power BI`
 
@@ -151,61 +166,49 @@ A project exploring healthcare datasets through data analysis and visualization.
 - Pattern and trend analysis
 - Visual communication of findings
 
-[**Explore source code →**](https://github.com/Moinhassan07/Medical-Data-Analysis)
+[**Explore Repository →**](https://github.com/Moinhassan07/Medical-Data-Analysis)
 
 </td>
 </tr>
 </table>
 
-### 📱 Application Development — MultiService App
+### 📱 MultiService App
 
 A multi-service application concept focused on service-booking workflows and application development.
 
 **Technologies:** React Native · Node.js · PostgreSQL
 
-[Browse my GitHub repositories →](https://github.com/Moinhassan07?tab=repositories)
-
----
-
-## `04` — Learning & Development
-
-I'm continuously strengthening my ability to build complete solutions, from data preparation through analysis and deployment.
-
-| Focus area | Current learning priorities |
-|---|---|
-| Data Engineering | Apache Airflow, AWS Glue, data modeling |
-| Data Platforms | Amazon Redshift, cloud data workflows |
-| Streaming | Apache Kafka fundamentals |
-| AI Engineering | LLM applications and AI workflow automation |
-| Business Analytics | KPI analysis, stakeholder-focused reporting, business insights |
+[Browse All Repositories →](https://github.com/Moinhassan07?tab=repositories)
 
 ---
 
 ## `05` — Certifications
 
-- AWS Certified Data Engineer – Associate *(2025; retain if earned)*
+- AWS Certified Data Engineer – Associate *(2025 — retain if earned)*
 - IBM SQL & Relational Databases 101
 - Google Data Analytics Professional Certificate
 
 ---
 
-## `06` — Beyond the Code
+## `06` — Learning & Development
 
-I believe the best technical solutions start with understanding the people and business problems behind the data.
-
-I'm interested in opportunities where I can combine analytical thinking, technical execution, and curiosity to help teams make better decisions and build useful products.
-
-**Open to connecting with professionals working in:**
-
-`Data Engineering` · `Business Analysis` · `Business Intelligence` · `AI Engineering`
+| Focus Area | Technologies & Concepts |
+|---|---|
+| Data Engineering | Apache Airflow, AWS Glue, ETL workflows |
+| Data Platforms | Amazon Redshift, data modeling |
+| Streaming | Apache Kafka fundamentals |
+| Business Analytics | KPI analysis, business reporting, data-driven decisions |
+| AI Engineering | LLM applications and AI workflow automation |
 
 ---
 
+## `07` — Let's Connect
+
+I'm interested in opportunities where I can combine technical skills, analytical thinking, and business understanding to build meaningful solutions.
+
+**Areas of interest:** Data Engineering · Business Analysis · Business Intelligence · AI Engineering
+
 <div align="center">
-
-### Have an interesting problem to solve?
-
-I'm always happy to connect, exchange ideas, and explore opportunities.
 
 <a href="https://www.linkedin.com/in/moinuddin-hassan-2866b5219/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="mailto:hameedmunna788@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>

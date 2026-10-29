@@ -184,7 +184,7 @@ A multi-service application concept focused on service-booking workflows and app
 
 ## `05` — Certifications
 
-- AWS Certified Data Engineer – Associate *(2025 — retain if earned)*
+- AWS Certified Data Engineer – Associate
 - IBM SQL & Relational Databases 101
 - Google Data Analytics Professional Certificate
 
